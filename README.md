@@ -36,14 +36,18 @@ Drop the `EA-LTR-Helper` file into the `Mods` folder
 The autosplitter currently built-in to LiveSplit is outdated, and will be replaced by this autosplitter in the near future.
 
 Download the autosplitter from the [Releases Page](https://github.com/kozia132/EA-LTR-Helper/releases) (EscapeAcademy-Autosplitter.asl)
+Download asl-help from [Here](https://github.com/just-ero/asl-help/raw/main/lib/asl-help)
 
-First, make sure the outdated autosplitter is disabled:
-In LiveSplit:
-1. Right click
+Install asl-help
+1. Navigate to your LiveSplit installation folder
+2. Put the `asl-help` file you downloaded in the `Components` folder
+
+Make sure the outdated autosplitter is disabled:
+1. Right click LiveSplit
 2. Click `Edit Splits`
 3. Make sure the outdated autosplitter is deactivated by pressing the `Deactivate` button if it's there
 
-To use this autosplitter,
+To install this autosplitter:
 1. Right click LiveSplit
 2. Click `Edit Layout`
 3. add a `Scriptable Auto Splitter`
