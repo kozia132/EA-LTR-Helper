@@ -23,7 +23,7 @@ Run Escape Academy. You should now see the Melon Loader splash screen while laun
 
 ## Installing the mod
 
-Download the mod from the [Releases Page](https://github.com/kozia132/EA-LTR-Helper/releases) (FramerateUnbind.dll)
+Download the mod from the [Releases Page](https://github.com/kozia132/EA-LTR-Helper/releases) (EA-Ltr-Helper.dll)
 
 Browse to Escape Academy's installation directory
 - Steam: Right click Escape Academy -> Manage -> Browse Local Files
