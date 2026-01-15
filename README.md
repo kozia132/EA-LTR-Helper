@@ -36,6 +36,7 @@ Drop the `EA-LTR-Helper` file into the `Mods` folder
 The autosplitter currently built-in to LiveSplit is outdated, and will be replaced by this autosplitter in the near future.
 
 Download the autosplitter from the [Releases Page](https://github.com/kozia132/EA-LTR-Helper/releases) (EscapeAcademy-Autosplitter.asl)
+
 Download asl-help from [Here](https://github.com/just-ero/asl-help/raw/main/lib/asl-help)
 
 Install asl-help
