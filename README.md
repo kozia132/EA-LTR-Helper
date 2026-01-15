@@ -17,7 +17,7 @@ Navigate to `EscapeAcademy_Data/Managed` and extract the above DLL files here. Y
 ### Melon Loader
 Install the MelonLoader mod loader using the MelonLoader.Installer.exe from the [github repo](https://github.com/LavaGang/MelonLoader/releases)
 
-When choosing a version in the launcher, choose **0.5.7**
+When choosing a version in the launcher, choose `0.5.7`
 
 Run Escape Academy. You should now see the Melon Loader splash screen while launching.
 
@@ -49,7 +49,7 @@ To use this autosplitter,
 3. add a `Scriptable Auto Splitter`
 4. Double click the Scriptable Auto Splitter to go into it's settings
 5. Next to `Script Path`, click `Browse`
-6. Select the EscapeAcademy-Autosplitter.asl you downloaded
+6. Select the `EscapeAcademy-Autosplitter.asl` you downloaded
 7. Ensure `Start`, `Split`, and `Reset` are all checked
 8. Right click LiveSplit
 9. Compare Against -> Game Time
