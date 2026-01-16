@@ -34,7 +34,7 @@ namespace EA.LTR
             }
 #endif
             var wipe = TransitionWipeSequence.Instance;
-            bool loading = (wipe != null && (wipe.TransitionActive || wipe.IsLoadingScreenUp));
+            bool loading = (wipe != null && (wipe.TransitionActive));
 #if DEBUG
             // override forces true when active
             LtrData.FullLoadingState = LtrData.DebugOverride ? true : loading;
@@ -64,4 +64,5 @@ namespace EA.LTR
 #endif
         }
     }
+
 }
